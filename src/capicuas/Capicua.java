@@ -44,7 +44,7 @@ public class Capicua {
 		for (int i=0;i<numeros;i++){
 			 if (palindrome(arraynums[i]))
 			      System.out.println("SIII");
-			 else System.out.println("NO");
+			 else System.out.println("NOOOO");
 		}
 	}
 
